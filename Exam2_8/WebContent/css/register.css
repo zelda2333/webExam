@@ -1,0 +1,17 @@
+.title {
+	text-align:center;
+}
+.top {
+	width:40%;
+	
+}
+select {
+	float:right;
+}
+p {
+	clear:both;
+	width:100%;
+} 
+.right {
+	float:right;
+}
